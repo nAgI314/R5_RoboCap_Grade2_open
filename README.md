@@ -1,10 +1,13 @@
 # ロボカップ
 
-## あいうえお
+### C# Project
+作成
+```
+$ dotnet new console -o プロジェクト名
+```
 
-- ndoanokscmavsjdfh
-jvbaojjiw
-<details>
-<summary>適当</summary>
-jveiaojniaw
-</details>
+起動
+```
+$ cd プロジェクト名
+$ dotnet watch run
+```
