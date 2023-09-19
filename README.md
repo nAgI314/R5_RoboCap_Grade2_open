@@ -12,6 +12,9 @@ $ cd プロジェクト名
 $ dotnet watch run
 ```
 
+Reboot: Ctrl + R<br />
+Exit: Ctrl + C<br />
+
 ### C# wasm Project
 作成
 ```
